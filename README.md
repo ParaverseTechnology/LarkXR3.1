@@ -4,7 +4,7 @@
 
 [Latest LarkXR 3.2 version download](https://www.pingxingyun.com/devCenter.html)
 
-[About paraverse](https://www.paraverse.cc/)
+[About Paraverse](https://www.paraverse.cc/)
 
 ---
 
